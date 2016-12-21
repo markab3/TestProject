@@ -10,6 +10,7 @@ namespace ConsoleApplication
             Console.WriteLine("Hello World!");
             string answer = Console.ReadLine();
             Console.WriteLine(answer);
+            Console.WriteLine("Pres any key");
             Console.ReadLine();
         }
     }
